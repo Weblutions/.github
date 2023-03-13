@@ -28,8 +28,8 @@ We have a large amount of resources just for you, check them out and 📢 at us 
 
 <a href="https://discord.gg/faxes" target="_blank">
       <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxes">
-            <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxes/light">
-            <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxes">
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxess">
+            <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxess/light">
+            <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxess">
       </picture>
 </a>
